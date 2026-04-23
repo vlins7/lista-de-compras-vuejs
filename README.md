@@ -1,7 +1,7 @@
 # Atividade Avaliativa N1 - Frameworks para Desenvolvimento de Sistemas
 
 ## Discente autor
-Vitor Linsbinski de Oliveir a
+Vitor Linsbinski de Oliveira
 
 
 ## Descrição do Projeto
