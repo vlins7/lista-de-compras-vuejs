@@ -1,11 +1,12 @@
 # Atividade Avaliativa N1 - Frameworks para Desenvolvimento de Sistemas
 
+## Discente autor
+Vitor Linsbinski de Oliveir a
+
+
 ## Descrição do Projeto
 
 Este projeto é uma atividade avaliativa da disciplina Frameworks para Desenvolvimento de Sistemas. Assim, consiste em uma aplicação que permite adicionar itens a uma lista de compras.
-
-## Autor
-Vitor Linsbinski de Oliveira
 
 ## Pré-requisitos
 
