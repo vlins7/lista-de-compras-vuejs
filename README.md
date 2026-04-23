@@ -1,38 +1,42 @@
-# atividade-avaliativa-n1
+# Atividade Avaliativa N1 - Frameworks para Desenvolvimento de Sistemas
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descrição do Projeto
 
-## Recommended IDE Setup
+Este projeto é uma atividade avaliativa da disciplina Frameworks para Desenvolvimento de Sistemas. Assim, consiste em uma aplicação que permite adicionar itens a uma lista de compras.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Autor
+Vitor Linsbinski de Oliveira
 
-## Recommended Browser Setup
+## Pré-requisitos
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Node.js instalado na máquina
 
-## Customize configuration
+## Como Rodar o Projeto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. Clone o repositório:
+   ```
+   git clone https://github.com/vlins7/lista-de-compras-vuejs.git
+   ```
 
-## Project Setup
+2. Navegue até o diretório do projeto:
+   ```
+   cd lista-de-compras-vuejs
+   ```
 
-```sh
-npm install
-```
+3. Instale as dependências:
+   ```
+   npm install
+   ```
 
-### Compile and Hot-Reload for Development
+4. Execute o projeto:
+   ```
+   npm run dev
+   ```
 
-```sh
-npm run dev
-```
+6. Acesse a aplicação em [URL: http://localhost:5173]. Obs: veja a porta que o Vue.js redirecionou a aplicação no terminal e substitua.
 
-### Compile and Minify for Production
+## Como Usar
 
-```sh
-npm run build
-```
+- Preencha o campo de adicionar novo item com o nome do produto.
+- Clique no botão adicionar ou clique Enter.
+- Para remover um item, clique no botão com ícone de lixeira ao lado direito dele.
